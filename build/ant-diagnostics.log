@@ -1,0 +1,199 @@
+------- Ant diagnostics report -------
+Apache Ant(TM) version 1.8.3 compiled on February 26 2012
+
+-------------------------------------------
+ Implementation Version
+-------------------------------------------
+core tasks     : 1.8.3 in file:/home/ljs/programs/ant/lib/ant.jar
+
+-------------------------------------------
+ ANT PROPERTIES
+-------------------------------------------
+ant.version: Apache Ant(TM) version 1.8.3 compiled on February 26 2012
+ant.java.version: 1.7
+Is this the Apache Harmony VM? no
+Is this the Kaffe VM? no
+Is this gij/gcj? no
+ant.core.lib: /home/ljs/programs/ant/lib/ant.jar
+ant.home: /home/ljs/programs/ant
+
+-------------------------------------------
+ ANT_HOME/lib jar listing
+-------------------------------------------
+ant.home: /home/ljs/programs/ant
+xml-apis-1.3.04.jar (194354 bytes)
+xml-resolver-1.2.jar (84091 bytes)
+bsf-2.4.0.jar (113369 bytes)
+ant-junit.jar (108142 bytes)
+jai-core-1.1.3.jar (1900631 bytes)
+ant-jsch.jar (46180 bytes)
+commons-logging-1.0.4.jar (38015 bytes)
+asm-tree-2.2.3.jar (16248 bytes)
+ant-jdepend.jar (14028 bytes)
+activation-1.1.jar (62983 bytes)
+ant-apache-regexp.jar (9567 bytes)
+asm-2.2.3.jar (34832 bytes)
+ant-apache-resolver.jar (9890 bytes)
+junit-4.8.1.jar (237047 bytes)
+servlet-api-2.3.jar (77977 bytes)
+js-1.6R7.jar (813521 bytes)
+log4j-1.2.14.jar (367444 bytes)
+ant-antlr.jar (11554 bytes)
+ant-apache-bcel.jar (14552 bytes)
+jasper-compiler-4.1.36.jar (184124 bytes)
+bsh-core-2.0b4.jar (143992 bytes)
+regexp-1.2.jar (29871 bytes)
+ant-launcher.jar (18432 bytes)
+regexp-1.3.jar (25429 bytes)
+bsh-2.0b4.jar (281694 bytes)
+NetRexxC.jar (355931 bytes)
+ant-swing.jar (13501 bytes)
+commons-logging-api-1.1.jar (44598 bytes)
+jai-codec-1.1.3.jar (258160 bytes)
+jruby-0.9.8.jar (1683526 bytes)
+ant-commons-logging.jar (9719 bytes)
+ant-testutil.jar (21006 bytes)
+ant-apache-bsf.jar (9737 bytes)
+ant-apache-xalan2.jar (8101 bytes)
+oro-2.0.8.jar (65261 bytes)
+ant-javamail.jar (13777 bytes)
+serializer-2.7.1.jar (278281 bytes)
+maven-artifact-ant-2.0.4-dep.jar (887507 bytes)
+ant-apache-log4j.jar (8865 bytes)
+ant-junit4.jar (12927 bytes)
+jdepend-2.9.1.jar (57933 bytes)
+ant.jar (1938849 bytes)
+asm-commons-2.2.3.jar (15114 bytes)
+jasper-runtime-4.1.36.jar (72397 bytes)
+which-1.0.jar (17398 bytes)
+mail-1.4.jar (388864 bytes)
+ant-netrexx.jar (16219 bytes)
+ant-apache-oro.jar (45519 bytes)
+ant-jai.jar (28245 bytes)
+ant-jmf.jar (12545 bytes)
+jsch-0.1.42.jar (185746 bytes)
+commons-net-1.4.1.jar (180792 bytes)
+antlr-2.7.7.jar (445288 bytes)
+ant-commons-net.jar (91455 bytes)
+bcel-5.1.jar (515920 bytes)
+xalan-2.7.1.jar (3176148 bytes)
+
+-------------------------------------------
+ USER_HOME/.ant/lib jar listing
+-------------------------------------------
+user.home: /home/ljs
+No such directory.
+
+-------------------------------------------
+ Tasks availability
+-------------------------------------------
+All defined tasks are available
+
+-------------------------------------------
+ org.apache.env.Which diagnostics
+-------------------------------------------
+#---- BEGIN: Which report
+Which.version=Which.java:($Revision: 1.2 $) WhichJar.java:($Revision: 1.2 $)
+java.version=1.7.0
+file.encoding=UTF-8
+java.ext.dirs=/home/ljs/programs/java/jdk/jre/lib/ext:/usr/java/packages/lib/ext
+java.class.path=/home/ljs/programs/ant/lib/ant-launcher.jar:/home/ljs/programs/ant/lib/xml-apis-1.3.04.jar:/home/ljs/programs/ant/lib/xml-resolver-1.2.jar:/home/ljs/programs/ant/lib/bsf-2.4.0.jar:/home/ljs/programs/ant/lib/ant-junit.jar:/home/ljs/programs/ant/lib/jai-core-1.1.3.jar:/home/ljs/programs/ant/lib/ant-jsch.jar:/home/ljs/programs/ant/lib/commons-logging-1.0.4.jar:/home/ljs/programs/ant/lib/asm-tree-2.2.3.jar:/home/ljs/programs/ant/lib/ant-jdepend.jar:/home/ljs/programs/ant/lib/activation-1.1.jar:/home/ljs/programs/ant/lib/ant-apache-regexp.jar:/home/ljs/programs/ant/lib/asm-2.2.3.jar:/home/ljs/programs/ant/lib/ant-apache-resolver.jar:/home/ljs/programs/ant/lib/junit-4.8.1.jar:/home/ljs/programs/ant/lib/servlet-api-2.3.jar:/home/ljs/programs/ant/lib/js-1.6R7.jar:/home/ljs/programs/ant/lib/log4j-1.2.14.jar:/home/ljs/programs/ant/lib/ant-antlr.jar:/home/ljs/programs/ant/lib/ant-apache-bcel.jar:/home/ljs/programs/ant/lib/jasper-compiler-4.1.36.jar:/home/ljs/programs/ant/lib/bsh-core-2.0b4.jar:/home/ljs/programs/ant/lib/regexp-1.2.jar:/home/ljs/programs/ant/lib/ant-launcher.jar:/home/ljs/programs/ant/lib/regexp-1.3.jar:/home/ljs/programs/ant/lib/bsh-2.0b4.jar:/home/ljs/programs/ant/lib/NetRexxC.jar:/home/ljs/programs/ant/lib/ant-swing.jar:/home/ljs/programs/ant/lib/commons-logging-api-1.1.jar:/home/ljs/programs/ant/lib/jai-codec-1.1.3.jar:/home/ljs/programs/ant/lib/jruby-0.9.8.jar:/home/ljs/programs/ant/lib/ant-commons-logging.jar:/home/ljs/programs/ant/lib/ant-testutil.jar:/home/ljs/programs/ant/lib/ant-apache-bsf.jar:/home/ljs/programs/ant/lib/ant-apache-xalan2.jar:/home/ljs/programs/ant/lib/oro-2.0.8.jar:/home/ljs/programs/ant/lib/ant-javamail.jar:/home/ljs/programs/ant/lib/serializer-2.7.1.jar:/home/ljs/programs/ant/lib/maven-artifact-ant-2.0.4-dep.jar:/home/ljs/programs/ant/lib/ant-apache-log4j.jar:/home/ljs/programs/ant/lib/ant-junit4.jar:/home/ljs/programs/ant/lib/jdepend-2.9.1.jar:/home/ljs/programs/ant/lib/ant.jar:/home/ljs/programs/ant/lib/asm-commons-2.2.3.jar:/home/ljs/programs/ant/lib/jasper-runtime-4.1.36.jar:/home/ljs/programs/ant/lib/which-1.0.jar:/home/ljs/programs/ant/lib/mail-1.4.jar:/home/ljs/programs/ant/lib/ant-netrexx.jar:/home/ljs/programs/ant/lib/ant-apache-oro.jar:/home/ljs/programs/ant/lib/ant-jai.jar:/home/ljs/programs/ant/lib/ant-jmf.jar:/home/ljs/programs/ant/lib/jsch-0.1.42.jar:/home/ljs/programs/ant/lib/commons-net-1.4.1.jar:/home/ljs/programs/ant/lib/antlr-2.7.7.jar:/home/ljs/programs/ant/lib/ant-commons-net.jar:/home/ljs/programs/ant/lib/bcel-5.1.jar:/home/ljs/programs/ant/lib/xalan-2.7.1.jar:/home/ljs/programs/java/jdk/lib/tools.jar
+os.name=Linux
+java.vendor=Oracle Corporation
+sun.boot.class.path=/home/ljs/programs/java/jdk/jre/lib/resources.jar:/home/ljs/programs/java/jdk/jre/lib/rt.jar:/home/ljs/programs/java/jdk/jre/lib/sunrsasign.jar:/home/ljs/programs/java/jdk/jre/lib/jsse.jar:/home/ljs/programs/java/jdk/jre/lib/jce.jar:/home/ljs/programs/java/jdk/jre/lib/charsets.jar:/home/ljs/programs/java/jdk/jre/classes
+java.runtime.name=Java(TM) SE Runtime Environment
+#----   END: Which report
+
+-------------------------------------------
+ XML Parser information
+-------------------------------------------
+XML Parser : com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl
+XML Parser Location: unknown
+Namespace-aware parser : com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser
+Namespace-aware parser Location: unknown
+
+-------------------------------------------
+ XSLT Processor information
+-------------------------------------------
+XSLT Processor : org.apache.xalan.transformer.TransformerIdentityImpl
+XSLT Processor Location: file:/home/ljs/programs/ant/lib/xalan-2.7.1.jar
+
+-------------------------------------------
+ System properties
+-------------------------------------------
+java.runtime.name : Java(TM) SE Runtime Environment
+sun.boot.library.path : /home/ljs/programs/java/jdk/jre/lib/i386
+java.vm.version : 21.0-b17
+ant.library.dir : /home/ljs/programs/ant/lib
+java.vm.vendor : Oracle Corporation
+java.vendor.url : http://java.oracle.com/
+path.separator : :
+java.vm.name : Java HotSpot(TM) Server VM
+file.encoding.pkg : sun.io
+user.country : US
+sun.java.launcher : SUN_STANDARD
+sun.os.patch.level : unknown
+java.vm.specification.name : Java Virtual Machine Specification
+user.dir : /home/ljs/work/javac/langtools-ce654f4ecfd8/make
+java.runtime.version : 1.7.0-b147
+java.awt.graphicsenv : sun.awt.X11GraphicsEnvironment
+java.endorsed.dirs : /home/ljs/programs/java/jdk/jre/lib/endorsed
+os.arch : i386
+java.io.tmpdir : /home/ljs/work/javac/langtools-ce654f4ecfd8/build/ant-tmp
+line.separator : 
+
+java.vm.specification.vendor : Oracle Corporation
+os.name : Linux
+ant.home : /home/ljs/programs/ant
+sun.jnu.encoding : UTF-8
+java.library.path : /usr/java/packages/lib/i386:/lib:/usr/lib
+java.specification.name : Java Platform API Specification
+java.class.version : 51.0
+sun.management.compiler : HotSpot Tiered Compilers
+os.version : 3.2.0-23-generic-pae
+user.home : /home/ljs
+user.timezone : Asia/Shanghai
+java.awt.printerjob : sun.print.PSPrinterJob
+file.encoding : UTF-8
+java.specification.version : 1.7
+user.name : ljs
+java.class.path : /home/ljs/programs/ant/lib/ant-launcher.jar:/home/ljs/programs/ant/lib/xml-apis-1.3.04.jar:/home/ljs/programs/ant/lib/xml-resolver-1.2.jar:/home/ljs/programs/ant/lib/bsf-2.4.0.jar:/home/ljs/programs/ant/lib/ant-junit.jar:/home/ljs/programs/ant/lib/jai-core-1.1.3.jar:/home/ljs/programs/ant/lib/ant-jsch.jar:/home/ljs/programs/ant/lib/commons-logging-1.0.4.jar:/home/ljs/programs/ant/lib/asm-tree-2.2.3.jar:/home/ljs/programs/ant/lib/ant-jdepend.jar:/home/ljs/programs/ant/lib/activation-1.1.jar:/home/ljs/programs/ant/lib/ant-apache-regexp.jar:/home/ljs/programs/ant/lib/asm-2.2.3.jar:/home/ljs/programs/ant/lib/ant-apache-resolver.jar:/home/ljs/programs/ant/lib/junit-4.8.1.jar:/home/ljs/programs/ant/lib/servlet-api-2.3.jar:/home/ljs/programs/ant/lib/js-1.6R7.jar:/home/ljs/programs/ant/lib/log4j-1.2.14.jar:/home/ljs/programs/ant/lib/ant-antlr.jar:/home/ljs/programs/ant/lib/ant-apache-bcel.jar:/home/ljs/programs/ant/lib/jasper-compiler-4.1.36.jar:/home/ljs/programs/ant/lib/bsh-core-2.0b4.jar:/home/ljs/programs/ant/lib/regexp-1.2.jar:/home/ljs/programs/ant/lib/ant-launcher.jar:/home/ljs/programs/ant/lib/regexp-1.3.jar:/home/ljs/programs/ant/lib/bsh-2.0b4.jar:/home/ljs/programs/ant/lib/NetRexxC.jar:/home/ljs/programs/ant/lib/ant-swing.jar:/home/ljs/programs/ant/lib/commons-logging-api-1.1.jar:/home/ljs/programs/ant/lib/jai-codec-1.1.3.jar:/home/ljs/programs/ant/lib/jruby-0.9.8.jar:/home/ljs/programs/ant/lib/ant-commons-logging.jar:/home/ljs/programs/ant/lib/ant-testutil.jar:/home/ljs/programs/ant/lib/ant-apache-bsf.jar:/home/ljs/programs/ant/lib/ant-apache-xalan2.jar:/home/ljs/programs/ant/lib/oro-2.0.8.jar:/home/ljs/programs/ant/lib/ant-javamail.jar:/home/ljs/programs/ant/lib/serializer-2.7.1.jar:/home/ljs/programs/ant/lib/maven-artifact-ant-2.0.4-dep.jar:/home/ljs/programs/ant/lib/ant-apache-log4j.jar:/home/ljs/programs/ant/lib/ant-junit4.jar:/home/ljs/programs/ant/lib/jdepend-2.9.1.jar:/home/ljs/programs/ant/lib/ant.jar:/home/ljs/programs/ant/lib/asm-commons-2.2.3.jar:/home/ljs/programs/ant/lib/jasper-runtime-4.1.36.jar:/home/ljs/programs/ant/lib/which-1.0.jar:/home/ljs/programs/ant/lib/mail-1.4.jar:/home/ljs/programs/ant/lib/ant-netrexx.jar:/home/ljs/programs/ant/lib/ant-apache-oro.jar:/home/ljs/programs/ant/lib/ant-jai.jar:/home/ljs/programs/ant/lib/ant-jmf.jar:/home/ljs/programs/ant/lib/jsch-0.1.42.jar:/home/ljs/programs/ant/lib/commons-net-1.4.1.jar:/home/ljs/programs/ant/lib/antlr-2.7.7.jar:/home/ljs/programs/ant/lib/ant-commons-net.jar:/home/ljs/programs/ant/lib/bcel-5.1.jar:/home/ljs/programs/ant/lib/xalan-2.7.1.jar:/home/ljs/programs/java/jdk/lib/tools.jar
+java.vm.specification.version : 1.7
+sun.arch.data.model : 32
+java.home : /home/ljs/programs/java/jdk/jre
+sun.java.command : org.apache.tools.ant.launch.Launcher -cp  -diagnostics
+java.specification.vendor : Oracle Corporation
+user.language : en
+awt.toolkit : sun.awt.X11.XToolkit
+java.vm.info : mixed mode
+java.version : 1.7.0
+java.ext.dirs : /home/ljs/programs/java/jdk/jre/lib/ext:/usr/java/packages/lib/ext
+sun.boot.class.path : /home/ljs/programs/java/jdk/jre/lib/resources.jar:/home/ljs/programs/java/jdk/jre/lib/rt.jar:/home/ljs/programs/java/jdk/jre/lib/sunrsasign.jar:/home/ljs/programs/java/jdk/jre/lib/jsse.jar:/home/ljs/programs/java/jdk/jre/lib/jce.jar:/home/ljs/programs/java/jdk/jre/lib/charsets.jar:/home/ljs/programs/java/jdk/jre/classes
+java.vendor : Oracle Corporation
+file.separator : /
+java.vendor.url.bug : http://bugreport.sun.com/bugreport/
+sun.cpu.endian : little
+sun.io.unicode.encoding : UnicodeLittle
+sun.desktop : gnome
+sun.cpu.isalist : 
+
+-------------------------------------------
+ Temp dir
+-------------------------------------------
+Temp dir is /home/ljs/work/javac/langtools-ce654f4ecfd8/build/ant-tmp
+Temp dir is writeable
+Temp dir alignment with system clock is -3 ms
+
+-------------------------------------------
+ Locale information
+-------------------------------------------
+Timezone China Standard Time offset=28800000
+
+-------------------------------------------
+ Proxy information
+-------------------------------------------
+Java1.5+ proxy settings:
+Direct connection
+
+
+Apache Ant(TM) version 1.8.3 compiled on February 26 2012

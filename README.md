@@ -1,4 +1,4 @@
-lazy-allocation-in-java-compiler
+Lazy Allocation in Java Compiler
 ================================
 
-Lazy allocation implemented in the java compiler
+Lazy allocation implemented in the sun Java compiler
